@@ -1,7 +1,7 @@
 # Environment
 
 -   CPU: J3160@1.60 GHz (Burst 2.24 GHz)
--   OS: Ubuntu 18.04 TLS
+-   OS: Ubuntu 18.04 LTS
 -   python: 3.9.1
 -   ffmepg: 3.4.8
 
