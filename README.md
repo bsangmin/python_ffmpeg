@@ -42,20 +42,20 @@
 Create 100 images for each loop
 
 ----- LOOP 1
-multi_filter_ffmpeg 6.607814311981201
-multi_task_coroutine 9.230214595794678
+multi_filter_ffmpeg 6.60s
+multi_task_coroutine 9.23s
 ----- LOOP 2
-multi_filter_ffmpeg 6.68984842300415
-multi_task_coroutine 9.278635740280151
+multi_filter_ffmpeg 6.68s
+multi_task_coroutine 9.27s
 ----- LOOP 3
-multi_filter_ffmpeg 6.896129369735718
-multi_task_coroutine 9.287603855133057
+multi_filter_ffmpeg 6.89s
+multi_task_coroutine 9.28s
 ----- LOOP 4
-multi_filter_ffmpeg 6.616771221160889
-multi_task_coroutine 9.48145341873169
+multi_filter_ffmpeg 6.61s
+multi_task_coroutine 9.48s
 ----- LOOP 5
-multi_filter_ffmpeg 6.597380876541138
-multi_task_coroutine 9.700622320175171
+multi_filter_ffmpeg 6.59s
+multi_task_coroutine 9.70s
 ```
 
 # Case 2
@@ -94,18 +94,18 @@ multi_task_coroutine 9.700622320175171
 Capture 50 images for each loop
 
 ----- LOOP 1
-run_case_ff 24.4374680519104
-run_case_co 18.807467937469482
+run_case_ff 24.43s
+run_case_co 18.80s
 ----- LOOP 2
-run_case_ff 23.68189835548401
-run_case_co 18.828185558319092
+run_case_ff 23.68s
+run_case_co 18.82s
 ----- LOOP 3
-run_case_ff 23.656421184539795
-run_case_co 18.350685119628906
+run_case_ff 23.65s
+run_case_co 18.35s
 ----- LOOP 4
-run_case_ff 24.157839059829712
-run_case_co 19.04792618751526
+run_case_ff 24.15s
+run_case_co 19.04s
 ----- LOOP 5
-run_case_ff 23.450905084609985
-run_case_co 18.948893547058105
+run_case_ff 23.45s
+run_case_co 18.94s
 ```
